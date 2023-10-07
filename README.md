@@ -8,4 +8,4 @@ Once you have already cloned the project write the command below;
 
             npm install && npm run dev
 
-<img/ src="./src/assets/sphere.png">
+<img src="./src/assets/sphere.png">
