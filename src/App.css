@@ -1,5 +1,9 @@
+body {
+  margin: 0;
+}
+
 #canvas {
-  background: radial-gradient(#292929, #000000);
+  background: radial-gradient(#424242, #000000);
   height: 100vh;
   /* width: 50%; */
 }
